@@ -1,7 +1,6 @@
 {
   "name": "project-sequelize",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,17 @@
     "pg": "^8.10.0",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.31.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maisafolgueral/project-sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maisafolgueral/project-sequelize/issues"
+  },
+  "homepage": "https://github.com/maisafolgueral/project-sequelize#readme",
+  "description": ""
 }
